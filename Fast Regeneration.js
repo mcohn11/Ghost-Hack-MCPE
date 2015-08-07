@@ -1,4 +1,4 @@
 function modTick()
 {
-Player.setHealth(20);
+Player.setHealth(2000000
 }
